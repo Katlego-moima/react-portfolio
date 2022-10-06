@@ -20,9 +20,8 @@ const About = () => {
             <p>
               I am self-driven and i like to learn new things related to coding.
               i completed my diploma in IT, specializing in Software
-              Development. and currently doing an internship in Software
-              Development mostly focused in Front-End development. I would like
-              to gain more necessary experience in the field.
+              Development. and currently working as a Junior Software Developer
+              mostly focused in Front-End development.
             </p>
           </div>
         </div>
