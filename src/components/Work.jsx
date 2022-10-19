@@ -28,12 +28,20 @@ const Work = () => {
                 Javascript Weather Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://kat-weather-app.netlify.app/">
+                <a
+                  href="https://kat-weather-app.netlify.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/Katlego-moima/javascript-weather-api">
+                <a
+                  href="https://github.com/Katlego-moima/javascript-weather-api"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -51,12 +59,20 @@ const Work = () => {
                 Javascript Dice Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://roll-a-die-game.netlify.app/">
+                <a
+                  href="https://roll-a-die-game.netlify.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/Katlego-moima/dice-game">
+                <a
+                  href="https://github.com/Katlego-moima/dice-game"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
